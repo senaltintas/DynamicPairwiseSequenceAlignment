@@ -1,4 +1,4 @@
-# ComputationalGenomicsProject2
+# CSE4065 - Computational Genomics Project 2
 Implementing dynamic pairwise sequence alignment and calculating the score of this alignment.
 
 Default values for scores: 
